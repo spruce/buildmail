@@ -403,7 +403,7 @@ new BuildMail().
 
 Returns the following object:
 
-```json
+```javascript
 {
     'from': 'from@example.com',
     'to': ['receiver1@example.com', 'receiver2@example.com']
